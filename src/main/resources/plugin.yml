@@ -1,0 +1,4 @@
+name: TaweeratTools
+version: '${project.version}'
+main: com.taweerat.taweerattools.TaweeratTools
+api-version: '1.20'
