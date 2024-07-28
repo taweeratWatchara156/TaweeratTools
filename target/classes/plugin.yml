@@ -1,0 +1,4 @@
+name: TaweeratTools
+version: '1.0'
+main: com.taweerat.taweeratTools.TaweeratTools
+api-version: '1.21'
